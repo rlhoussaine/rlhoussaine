@@ -48,9 +48,9 @@ R&D Engineer specialized in **scientific image processing** and **space instrume
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-rlhoussaines-projects.vercel.app/api?username=rlhoussaine&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-zeta-ruddy-54.vercel.app/api?username=rlhoussaine&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlhoussaine&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-git-master-rlhoussaines-projects.vercel.app/api/top-langs/?username=rlhoussaine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-zeta-ruddy-54.vercel.app/api/top-langs/?username=rlhoussaine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
