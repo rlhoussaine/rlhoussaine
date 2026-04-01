@@ -1,8 +1,10 @@
 <div align="center">
 
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lhoussaineromain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romain.lhoussaine@gmail.com)
+<br>
 🇬🇧 [English](#about-me-en) · 🇫🇷 [Français](#about-me-fr)
-<br><br>
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge)
 
 </div>
 
@@ -11,24 +13,26 @@
 <a id="about-me-en"></a>
 ## 💫 About Me — EN
 
-🎯 Open to work — R&D Engineer position in Toulouse (space, EO, defense)  
-🔭 Currently building a Python pipeline for hyperspectral image processing  
-👯 Open to collaborate on remote sensing tools & AIT/PUS testing frameworks  
-🌱 Learning Dask for large-scale EO dataset processing  
-💬 Ask me about hyperspectral imaging, space instrument commissioning, ECSS PUS  
-⚡ Volunteer firefighter for 10+ years 🚒  
+R&D Engineer specialized in **scientific image processing** and **space instrumentation** — 5 years of experience across ESA missions (Euclid/NISP), Copernicus processors (Sentinel-3), hyperspectral imaging pipelines, and satellite instrument commissioning.
+
+🎯 Looking for a **CDI R&D position in Toulouse** — space, Earth Observation, defense  
+🔭 Experience from lab integration to **in-flight commissioning** (Euclid/NISP — ESA)  
+🌱 Deepening skills in areas adjacent to scientific development — CI/CD, packaging, DevOps  
+💬 Ask me about hyperspectral imaging, in-flight commissioning, TC/TM & PUS services  
+⚡ Volunteer firefighter for 10+ years · Math & physics tutor 🚒  
 
 ---
 
 <a id="about-me-fr"></a>
 ## 💫 About Me — FR
 
-🎯 En recherche d'emploi — Ingénieur R&D à Toulouse (spatial, OT, défense)  
-🔭 Développement d'une chaîne de traitement d'images hyperspectrales  
-👯 Ouvert à collaborer sur des outils remote sensing & frameworks AIT/PUS  
-🌱 En train d'apprendre Dask pour le traitement de grands jeux de données EO  
-💬 Imagerie hyperspectrale, recette d'instruments spatiaux, services PUS (ECSS)  
-⚡ Pompier volontaire depuis plus de 10 ans 🚒  
+Ingénieur R&D spécialisé en **traitement d'images scientifiques** et **instrumentation spatiale** — 5 ans d'expérience sur des missions ESA (Euclid/NISP), des processeurs Copernicus (Sentinel-3), des chaînes hyperspectrales et la recette d'instruments en vol.
+
+🎯 En recherche d'un **poste CDI R&D à Toulouse** — spatial, Observation de la Terre, défense  
+🔭 De l'intégration en laboratoire à la **recette en vol** (Euclid/NISP — ESA)  
+🌱 Approfondissement des compétences connexes au développement scientifique — CI/CD, packaging, DevOps  
+💬 Imagerie hyperspectrale, recette en vol, TC/TM & services PUS (ECSS)  
+⚡ Pompier volontaire depuis 10 ans · Tuteur maths et physique 🚒  
 
 ---
 
@@ -62,13 +66,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlhoussaine&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlhoussaine&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" height="150" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlhoussaine&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlhoussaine&layout=compact&theme=transparent&hide_border=true&title_color=0077B5)
+
 </div>
-
----
-
-## 🌐 Socials / Réseaux
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lhoussaineromain)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romain.lhoussaine@gmail.com)

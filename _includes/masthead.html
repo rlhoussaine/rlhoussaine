@@ -33,8 +33,15 @@
           {% endfor %}
           <li class="masthead__menu-item persist lang-switch">
             <div class="lang-switch" role="navigation" aria-label="Language">
-              <a href="{{ base_path }}/" hreflang="en">🇬🇧 EN</a> <span class="lang-switch__sep" aria-hidden="true">|</span>
-              <a href="{{ base_path }}/fr/" hreflang="fr">🇫🇷 FR</a>
+              {% if page.translations %}
+                <a href="{{ base_path }}{{ page.translations.en }}" hreflang="en">🇬🇧 EN</a>
+                <span class="lang-switch__sep" aria-hidden="true">|</span>
+                <a href="{{ base_path }}{{ page.translations.fr }}" hreflang="fr">🇫🇷 FR</a>
+              {% else %}
+                <a href="{{ base_path }}/" hreflang="en">🇬🇧 EN</a>
+                <span class="lang-switch__sep" aria-hidden="true">|</span>
+                <a href="{{ base_path }}/fr/" hreflang="fr">🇫🇷 FR</a>
+              {% endif %}
             </div>
           </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
